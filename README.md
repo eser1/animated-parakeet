@@ -1,6 +1,11 @@
 # titanic-machine-learning
 Machine Learning from Titanic Disaster - Kaggle Competition
 
+<ul>
+  <li>eser</li>
+
+</ul>
+
 1.Download code in zip format.
 2.Open .py file with any editor supports pyhton.
 3.Run the code.
