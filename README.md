@@ -4,7 +4,7 @@ The aim of the study is to make predictions which passengers survived from Titan
 <hr>
 <ul>
   <li>1.Download code in zip format.</li>
-  <li>2.Open .py file with any editor supports pyhton.</li>
+  <li>2.Open titanic.py file with any editor supports pyhton.</li>
   <li>3.Run the code.</li>
   <li>4.Accuracy score will be printed in console.</li>
   <li>5.Submission file will be created. </li>
